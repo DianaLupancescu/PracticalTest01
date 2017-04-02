@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\Diana\\Desktop\\PracticalTest01\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\Diana\\.android\\build-cache\\96a6be527dab3e9712e17c7a3e68b30c6f972938\\output\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "C:\\Users\\Diana\\Desktop\\PracticalTest01\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\Diana\\.android\\build-cache\\96a6be527dab3e9712e17c7a3e68b30c6f972938\\output\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Users\\Diana\\Desktop\\PracticalTest01\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\Diana\\.android\\build-cache\\96a6be527dab3e9712e17c7a3e68b30c6f972938\\output\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\Diana\\Desktop\\PracticalTest01\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\Diana\\.android\\build-cache\\96a6be527dab3e9712e17c7a3e68b30c6f972938\\output\\res\\layout-v21\\notification_template_icon_group.xml"
+    }
+]
