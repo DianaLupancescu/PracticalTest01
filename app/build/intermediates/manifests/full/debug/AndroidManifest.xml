@@ -20,6 +20,11 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme" >
         <activity android:name="practicaltest01.eim.systems.cs.pub.ro.practicaltest01.PracticalTest01MainActivity" >
+            <service
+                android:name="ro.pub.cs.systems.eim.PracticalTest01Service"
+                android:enabled="true"
+                android:exported="false" />
+
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
